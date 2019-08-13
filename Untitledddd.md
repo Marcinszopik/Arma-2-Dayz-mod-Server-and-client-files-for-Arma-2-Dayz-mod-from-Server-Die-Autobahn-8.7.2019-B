@@ -1,4 +1,4 @@
-Arma 2 Dayz mod
+# Arma 2 Dayz mod
 {Server and client files for Arma 2 Dayz mod from Server Die Autobahn}, {8.7.2019}
 By {Boba Fetish, Ski Goggles, Tex, Hospital Chair, Shooting Blanks}
 Description
